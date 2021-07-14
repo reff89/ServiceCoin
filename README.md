@@ -1,0 +1,2 @@
+# ServiceCoin
+Solidity coin
